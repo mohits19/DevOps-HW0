@@ -1,0 +1,1 @@
+{"virtualbox":{"/vol/projects":{"guestpath":"/vol/projects","hostpath":"C:/Users/mohit/DevOps/HW0/ComputingEnvironment/projects","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/mohit/DevOps/HW0/ComputingEnvironment/trusty","disabled":false,"__vagrantfile":true}}}
